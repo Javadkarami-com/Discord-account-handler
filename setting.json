@@ -1,0 +1,32 @@
+{
+    "channelId": "2323",
+
+    "tokens": [
+        ""
+    ],
+
+
+
+
+
+    "ActivityName": [
+        "Apex Legends",
+        "Fortnite",
+        "League of Legends",
+        "Overwatch",
+        "Rocket League",
+        "Smite",
+        "World of Warcraft"
+    ],
+    "status": [
+        "online",
+        "idle",
+        "dnd",
+        "invisible"
+    ],
+    "ActivityType": [
+        "PLAYING",
+        "LISTENING",
+        "WATCHING"
+    ]
+}
