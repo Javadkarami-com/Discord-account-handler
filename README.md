@@ -18,4 +18,5 @@ You can change ActivityType & status & ActivityName to anything you want</br>
 # Starting app ▶️
 Open Directory of App and open your Terminal/CMD </br>
 Type `node index.js` to start app with node.js
-# hope you enjoy it 💓
+# hope you enjoy it 💓⭐
+Don't forget to start repository
