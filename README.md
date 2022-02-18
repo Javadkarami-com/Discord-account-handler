@@ -1,6 +1,4 @@
-<p align="center">
-🤹‍♂️ Discord Multi Account Handler 🤹‍
-</p>
+# 🤹‍♂️ Discord Multi Account Handler 🤹‍
 ![Personal Website Image](https://cdn.discordapp.com/attachments/839610771247464468/943664951858434108/code.png)</br>
 # About This Account Handler ℹ️
 First of all this Handler just for Discord Account(not others dont be stupid)</br>
