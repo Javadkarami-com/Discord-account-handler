@@ -8,8 +8,16 @@ If you do not want to use any of them, you can change it with just a little codi
 ## Setting Up App...
 Install node.js Version 16+ from official website(https://nodejs.org/en/)</br>
 Open Directory of App and open your Terminal/CMD </br>
-Type npm install to install Dependencies</br>
-
+Type `npm install` to install Dependencies</br>
+Type `npm install discord.js-self`</br>
+# Configure app
+fill "token" with your Discord Account token's</br>
+fill "channelid" with any voice chanel you want to account join it</br>
+⬇----------Optimal----------⬇</br>
+You can change ActivityType & status & ActivityName to anything you want</br>
+## Starting app
+Open Directory of App and open your Terminal/CMD </br>
+Type `node index.js` to start app with node.js
 
 
 
