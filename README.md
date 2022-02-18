@@ -11,8 +11,8 @@ Open Directory of App and open your Terminal/CMD </br>
 Type `npm install` to install Dependencies</br>
 Type `npm install discord.js-self`</br>
 # Configure app
-Fill `token` with your Discord Account token's</br>
-Fill `channelid` with any voice chanel you want to account join it</br>
+Fill <b>tokens</b> with your Discord Account token's</br>
+Fill <b>channelid</b> with any voice chanel you want to account join it</br>
 Optimal:</br>
 You can change ActivityType & status & ActivityName to anything you want</br>
 ## Starting app
