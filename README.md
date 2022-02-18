@@ -1,5 +1,5 @@
 # 🤹‍♂️ Discord Multi Account Handler 🤹‍
-![Personal Website Image](https://cdn.discordapp.com/attachments/941475476025802792/944363001119637594/unknown.png)</br>
+![Personal Website Image](https://cdn.discordapp.com/attachments/941475476025802792/944363353634136094/unknown.png)</br>
 # About This Account Handler ℹ️
 First of all this Handler just for Discord Account(not others dont be stupid)</br>
 This App Randomly choose <b>Status & Activity & Activity Type </b>for each account and join account in any voice chanel you want(fake Total Microphon).</br>
