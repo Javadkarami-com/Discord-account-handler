@@ -9,6 +9,7 @@ for (const token of tokens) {
 
     //Setting up client ActivityType & ActivityName & status
     client.on('ready', () => {
+        KOS = "JAVAD"
         client.user.setStatus(random(status));
         client.user.setActivity(random(ActivityName), { type: random(ActivityType) });
     });
