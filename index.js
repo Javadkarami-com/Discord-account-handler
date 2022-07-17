@@ -2,14 +2,13 @@
 const Discord = require("discord.js-self");
 const { ActivityType, ActivityName, status, channelId, tokens } = require("./setting.json");
 
-//Starting Application // TEST
+//Starting Application
 const random = (Thing) => Thing[Math.floor(Math.random() * Thing.length)];
 for (const token of tokens) {
     const client = new Discord.Client();
 
     //Setting up client ActivityType & ActivityName & status
     client.on('ready', () => {
-        KOS = "JAVAD"
         client.user.setStatus(random(status));
         client.user.setActivity(random(ActivityName), { type: random(ActivityType) });
     });
