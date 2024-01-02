@@ -1,6 +1,7 @@
 // Import mudules
 const Discord = require("discord.js-self");
 const { ActivityType, ActivityName, status, channelId, tokens } = require("./setting.json");
+
 //Starting Application
 const random = (Thing) => Thing[Math.floor(Math.random() * Thing.length)];
 for (const token of tokens) {
