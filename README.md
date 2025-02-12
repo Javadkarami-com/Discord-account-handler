@@ -6,7 +6,7 @@ This project allows you to automatically change your Discord presence (status, a
 
 1. Clone the repository:
 ```
-git clone https://github.com/Javadkarami-com/Discord-account-handler.git
+git clone https://github.com/Javadkarami-com/Discord-Presence-Changer.git
 ```
 
 2. Install the required dependencies:
